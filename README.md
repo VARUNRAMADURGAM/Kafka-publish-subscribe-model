@@ -1,5 +1,8 @@
 Kafka - Event Driven microservice architecture
 
+Youtube video for reference:
+https://www.youtube.com/playlist?list=PLVz2XdJiJQxwpWGoNokohsSW2CysI6lDc
+
 Pre-requiste
 Should have kafka and zookeeper installed and both the application should be up and running
 
